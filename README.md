@@ -39,7 +39,7 @@ The goal of this guide is to help you **understand and bypass obfuscation techni
 
 Perfect for practice and quick wins:
 
--   **Soaper**
+-   [**Soaper**](https://github.com/luslucifer/Web-reversing/blob/main/scrapers/Soaper.md)
 -   **Nepu**
 -   **Catflix**
 -   **Vidlink**
