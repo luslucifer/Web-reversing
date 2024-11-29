@@ -80,3 +80,5 @@ Join our community:
 -   **[Telegram](https://t.me/vidjoy)**
 
 We’re here to help you every step of the way. Let’s make scraping exciting, educational, and super rewarding! 🚀
+
+[Next](https://github.com/luslucifer/Web-reversing/blob/main/basics/gettingStarted.md)
