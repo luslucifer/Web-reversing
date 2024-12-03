@@ -76,7 +76,7 @@ Got questions? Stuck on something? Want to share your progress?
 
 Join our community:
 
--   **[Discord](https://discord.gg/aAPmfsRD)**
+-   **[Discord](https://discord.gg/mXfvRY49h4)**
 -   **[Telegram](https://t.me/vidjoy)**
 
 We’re here to help you every step of the way. Let’s make scraping exciting, educational, and super rewarding! 🚀
