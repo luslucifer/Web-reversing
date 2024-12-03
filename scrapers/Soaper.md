@@ -88,7 +88,7 @@ Congratulations, you’ve successfully scraped Soaper! Enjoy your decoded respon
 
 Got questions or want to share your progress? We’ve got you covered:
 
--   **[Join us on Discord](https://discord.gg/aAPmfsRD)**
+-   **[Join us on Discord](https://discord.gg/mXfvRY49h4)**
 -   **[Chat on Telegram](https://t.me/vidjoy)**
 
 Let’s keep scraping fun, educational, and super rewarding! 🚀
